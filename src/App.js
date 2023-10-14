@@ -5,7 +5,7 @@ const App = () => {
   return (
     <div className="portfolio">
       <header>
-        <h1>Praneeth Abbaraju</h1>
+        <h1>vishal reddynpm</h1>
         <p>Web Developer</p>
       </header>
       <section className="projects">
